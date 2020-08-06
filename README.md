@@ -26,5 +26,5 @@ _ordered list_
 *Tasks list*
 
 - [x] I am completing a git course.
-- []  I am not completing a cs50 course.
+- [ ] I am not completing a cs50 course.
 
