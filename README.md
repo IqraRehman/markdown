@@ -29,6 +29,6 @@ _ordered list_
 - [ ] I am not completing a cs50 course.
 
 
-octocat :+1: This PR looks great - it's ready to merge! :shipit:
+octocat :+2: This PR looks great - it's ready to merge! :shipit:
 
 
