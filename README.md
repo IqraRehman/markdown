@@ -1,3 +1,3 @@
-# __first heading__
+# _first heading_
 ## *second heading*
 i am practicing markdown language
