@@ -14,3 +14,8 @@ _unordered list_
 - first list
 - second list
 
+_ordered list_
+
+1. first ordered list
+2. second ordered list
+
