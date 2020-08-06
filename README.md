@@ -1,5 +1,7 @@
-# _first heading_
-## *second heading*
+# **first big heading**
+## *# this one is used for single big heading*
 
-~~i am practicing markdown language~~
+~~this is used for a strikethrough~~
+
+***used for all bold and italic***
 
