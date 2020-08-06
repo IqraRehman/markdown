@@ -28,7 +28,7 @@ _ordered list_
 - [x] I am completing a git course.
 - [ ] I am not completing a cs50 course.
 
-:EMOJICODE:
+
 octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 
