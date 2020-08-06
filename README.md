@@ -23,3 +23,8 @@ _ordered list_
    - nested item in 2nd ordered list
    - nested item
 
+*Tasks list*
+
+[x] I am completing a git course.
+[]  I am not completing a cs50 course.
+
