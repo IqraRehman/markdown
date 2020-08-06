@@ -1,3 +1,5 @@
 # _first heading_
 ## *second heading*
-i am practicing markdown language
+
+~~ i am practicing markdown language ~~
+
